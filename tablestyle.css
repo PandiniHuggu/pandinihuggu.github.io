@@ -1,0 +1,56 @@
+body {
+  font-family: "Times New Roman", sans-serif;
+  background-color: #fff8f0;
+}
+
+h1 {
+  font-family: 'Comic Neue', cursive, "Times New Roman", sans-serif;
+  color: #fff8f0;
+  font-weight: 700;
+  text-align: center;
+  border: 15px solid #f4d06f;
+  background-color: #ff8811;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  max-width: calc(1440px + 12rem);
+  margin-left: auto;
+  margin-right: auto;    
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 50%;
+  height: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 1440px;
+}
+
+h2 {
+  font-family: 'Comic Neue', sans-serif;
+  color: #392f5a;
+  text-align: center;
+}
+
+table {
+  border: 2px solid #392F5A
+  ;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  font-family: 'Comic Neue', sans-serif;
+  color: #392f5a;
+  background-color: #9dd9d2;
+}
+
+td {
+  font-family: 'Comic Neue', sans-serif;
+  color: #392f5a;
+  border-top: 1px solid #392F5A;
+}
+
+.code {
+  font-family: monospace;
+  color: 392f5a;
+  background-color: #f4d06f;
+}
